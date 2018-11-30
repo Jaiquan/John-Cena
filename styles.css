@@ -14,6 +14,7 @@ img {
        border: solid black 30px;
        padding: 10px;
        margin: 10px;
+       background-color:red;
 }
 .cena   {
     display:flex;
@@ -21,4 +22,11 @@ img {
 }
 body    {
     background-color: green;
+    font-family: 'Titillium Web', sans-serif;
+}
+.social {
+        display:flex;
+        justify-content: space-around;
+        border:10px solid blue;
+        padding:10px;
 }
